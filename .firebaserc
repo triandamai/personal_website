@@ -1,5 +1,17 @@
 {
   "projects": {
     "default": "myproject-64aac"
+  },
+  "targets": {
+    "myproject-64aac": {
+      "hosting": {
+        "trianapp": [
+          "myproject-64aac"
+        ],
+        "tabungan": [
+          "savings-cf7d2"
+        ]
+      }
+    }
   }
 }
