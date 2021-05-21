@@ -31,7 +31,7 @@
       ]
     },
     {
-      "target": "bday",
+      "target": "bday2",
       "public": "bday2",
       "ignore": [
         "firebase.json",
