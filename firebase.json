@@ -32,7 +32,7 @@
     },
     {
       "target": "bday",
-      "public": "bday",
+      "public": "bday2",
       "ignore": [
         "firebase.json",
         "**/.*",
@@ -41,7 +41,7 @@
       "rewrites": [
         {
           "source": "**",
-          "destination": "/index.html"
+          "destination": "/start.html"
         }
       ]
     }
