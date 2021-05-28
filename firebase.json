@@ -41,7 +41,7 @@
       "rewrites": [
         {
           "source": "**",
-          "destination": "/start.html"
+          "destination": "/index.html"
         }
       ]
     }
